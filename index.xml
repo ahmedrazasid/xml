@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<electronics>
+<moblie cate="mob" xmlns:mobe="http//mobile/webs">
+<model>Nokia 3310</model>
+<price>PKR=3450/-</price>
+</moblie>
+<moblie cate="mob" xmlns:mobe="http//mobile/webs">
+<model>Samsung S10</model>
+<price>PKR=34500/-</price>
+</moblie>
+<moblie cate="mob" xmlns:mobe="http//mobile/webs">
+<model>Realme 5i</model>
+<price>PKR=25000/-</price>
+</moblie>
+<moblie cate="mob" xmlns:mobe="http//mobile/webs">
+<model>Realme C27</model>
+<price>PKR=37500/-</price>
+</moblie>
+<lcd cate="lcd" xmlns:lcd="http//lcds/web">
+<brand>TCL</brand>
+<inch>36 Inches</inch>
+<price>PKR=45500/-</price>
+</lcd>
+<lcd cate="lcd" xmlns:lcd="http//lcds/web">
+<brand>Akira</brand>
+<inch>24 Inches</inch>
+<price>PKR=28000/-</price>
+</lcd>
+<lcd cate="lcd" xmlns:lcd="http//lcds/web">
+<brand>Haeir</brand>
+<inch>42 Inches</inch>
+<price>PKR=56000/-</price>
+</lcd>
+<lcd cate="lcd" xmlns:lcd="http//lcds/web">
+<brand>Samsung</brand>
+<inch>58 Inches</inch>
+<price>PKR=145500/-</price>
+</lcd>
+<aircondi cate="ac" xmlns:ac="http//airconditioner/web">
+<brand>National</brand>
+<type>2 Ton Window</type>
+<price>99999/-</price>
+</aircondi>
+</electronics>
